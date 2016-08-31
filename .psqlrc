@@ -30,3 +30,6 @@
 -- \set some_alias `cat ~/.psqlrc-aliases/some_client/some_alias.sql`
 
 \ir .psqlrc-admin
+
+-- Pretty
+\x auto
